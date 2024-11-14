@@ -8,3 +8,5 @@
 - 📫 How to reach me: sean.d.mchugh@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Haverford College is my second college
+
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=bear&preferLogin=true">    <img  alt="seanmchugh674's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/seanmchugh674?cardType=github&theme=bear&preferLogin=true" />  </a>
