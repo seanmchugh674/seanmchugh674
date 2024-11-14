@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! My name is Sean McHugh!
 
 - 🔭 I’m currently working on creating my readme file
 - 🌱 I’m currently learning how to navigate around github
